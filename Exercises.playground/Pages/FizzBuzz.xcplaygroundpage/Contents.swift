@@ -6,7 +6,7 @@ for i in 1...100 {
 }
 
 // para filtrar el item correspondiente
-func fizzBuzz(item: Int) {
+private func fizzBuzz(item: Int) {
     
     let isThree: Bool = item % 3 == 0
     let isFive: Bool = item % 5 == 0
@@ -25,9 +25,3 @@ func fizzBuzz(item: Int) {
         
     }
 }
-
-
-/*
- Datos generales
- experiencia 
- */
