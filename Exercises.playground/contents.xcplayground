@@ -3,5 +3,6 @@
     <pages>
         <page name='FizzBuzz'/>
         <page name='Anagrama'/>
+        <page name='Fibonacci'/>
     </pages>
 </playground>
