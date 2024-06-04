@@ -4,5 +4,6 @@
         <page name='FizzBuzz'/>
         <page name='Anagrama'/>
         <page name='Fibonacci'/>
+        <page name='PrimeNumbers'/>
     </pages>
 </playground>
